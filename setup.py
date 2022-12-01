@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "REPO_NAME"
-AUTHOR_USER_NAME = "c17hawke"
+REPO_NAME = "dvc-NLP-simple-usecase"
+AUTHOR_USER_NAME = "demohari"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
@@ -21,6 +21,6 @@ setup(
     author_email="sunny.c17hawke@gmail.com",
     packages=[SRC_REPO],
     license="MIT",
-    python_requires=">=3.6",
+    python_requires=">=3.7",
     install_requires=LIST_OF_REQUIREMENTS
 )
