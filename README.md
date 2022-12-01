@@ -1,4 +1,4 @@
-# dvc-project-template
+# dvc-NLP-simple-usecase
 DVC project template
 
 ## STEPS -
